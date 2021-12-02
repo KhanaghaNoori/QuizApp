@@ -1,0 +1,19 @@
+.card-container{
+    min-height: 100vh;
+    background-color: #36399A !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.quiz-card{
+width: 30rem;
+}
+
+.card-footer{
+border-top: 1px solid rgba(0, 0, 0, 4);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
