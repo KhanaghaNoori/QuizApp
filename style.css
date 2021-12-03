@@ -14,6 +14,26 @@ width: 30rem;
 .card-footer{
 border-top: 1px solid rgba(0, 0, 0, 4);
     align-items: center;
+
     display: flex;
     justify-content: space-between;
+}
+
+.btn {
+    background-color: #36399A !important;
+    border-color: #36399A !important;
+}
+.quiz-answer:hover{
+    cursor: pointer;
+    background-color: #36399A;
+}
+.cad-hover:hover{
+    color: seashell;
+}
+
+.bg-success, .bg-danger{
+color: seashell;
+}
+#QuizBeendet{
+    font-size: 45px;
 }
